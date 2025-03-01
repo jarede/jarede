@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @jarede
-### 🌱 I’m currently learning .NET Core, with C#
+### 🌱 I’m still learning.
 
 <!---
 jarede/jarede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
