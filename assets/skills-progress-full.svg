@@ -1,4 +1,4 @@
-<svg width="700" height="560" viewBox="0 0 700 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hand-drawn-style engineering capabilities radar with a technology emoji at each vertex: Python at Backend and APIs and at Systems integration, Docker at DevOps and CI/CD, SQL/Oracle at Databases, Shell/Fish at Automation and tooling, and React at Frontend. A Rust emoji sits near the second ring on the Backend and APIs axis, and another sits close to the center on Systems integration, marking how far it still has to go on each">
+<svg width="700" height="560" viewBox="0 0 700 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hand-drawn-style engineering capabilities radar with a technology emoji at each vertex: Python at Backend and APIs and at Systems integration, Docker at DevOps and CI/CD, SQL/Oracle at Databases, Shell/Fish at Automation and tooling, and React at Frontend. Rust emojis mark its current progress on three axes: near the second ring on Backend and APIs, close to the center on Systems integration, and near the third ring on Automation and tooling — reflecting the shipped dev-cli project">
 
   <text x="24" y="34" font-family="'Segoe Print', 'Bradley Hand', 'Chalkboard SE', 'Comic Sans MS', cursive" font-size="15" fill="#666666" transform="rotate(-1 24 34)">Progress tracker — technology per capability</text>
 
@@ -40,5 +40,6 @@
     <text x="272.1" y="255.0">⚛️</text>
     <text x="350.0" y="228.0">🦀</text>
     <text x="365.6" y="291.0" font-size="18">🦀</text>
+    <text x="250.1" y="332.4" font-size="19">🦀</text>
   </g>
 </svg>
