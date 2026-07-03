@@ -2,12 +2,13 @@
 
 Software engineer focused on **backend, systems integration, and automation** — building everything from middleware that talks to on-premise ERPs to command-line tools for my own workflow.
 
-## 🕰️ Timeline
+## 📊 Skills overview
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/growth-dark.svg">
-  <img src="assets/growth-light.svg" alt="Ascending curve showing professional scope growing from 2004 to 2026, with markers at technology-adoption and delivery milestones">
-</picture>
+Engineering capability stays constant across tools; technology depth doesn't. Each axis is a tech-agnostic capability; the emoji marks which technology currently drives it, and how far along it is — a chart I'll keep updating as it evolves.
+
+![Hand-drawn-style engineering capabilities radar with a technology emoji at each vertex: Python at Backend and APIs and at Systems integration, Docker at DevOps and CI/CD, SQL/Oracle at Databases, Shell/Fish at Automation and tooling, and React at Frontend. A Rust emoji sits near the second ring on the Backend and APIs axis, and another sits close to the center on Systems integration, marking how far it still has to go on each](assets/skills-progress-full.svg)
+
+## 🕰️ Timeline
 
 ☕ **2004** — Developed Java applications for task automation; evolved into commercial desktop projects using Swing
 🐍 **2006** — Started developing web services using Python
