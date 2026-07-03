@@ -20,6 +20,7 @@ Engineering capability stays constant across tools; technology depth doesn't. Ea
 🤖 **2017** — Shipped ML-driven forecasting (supervised linear regression) for the replenishment system, rolled out company-wide across all stores and warehouses  <br>
 🔀 **2019** — Shipped a middleware orchestrating pricing, commercial agreements, and logistics data between an ERP, supply-chain systems, and store-floor systems — still running in production today  <br>
 🦀 **2020** — Started learning Rust  <br>
+💬 **2026 (Apr)** — Started using AI coding agents day-to-day: Claude Code, Gemini CLI, OpenCode  <br>
 ⚙️ **2026** — Shipped my first Rust CLI  <br>
 
 ## 🧰 Languages & Stacks
