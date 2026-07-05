@@ -20,7 +20,7 @@ Engineering capability stays constant across tools; technology depth doesn't. Ea
 🤖 **2017** — Shipped ML-driven forecasting (supervised linear regression) for the replenishment system, rolled out company-wide across all stores and warehouses  <br>
 🔀 **2019** — Shipped a middleware orchestrating pricing, commercial agreements, and logistics data between an ERP, supply-chain systems, and store-floor systems — still running in production today  <br>
 🦀 **2020** — Started learning Rust  <br>
-💬 **2026 (Apr)** — Started using AI coding agents day-to-day: Claude Code, Gemini CLI, OpenCode  <br>
+💬 **2026 (Apr)** — Started using AI coding agents day-to-day: Claude Code, Copilot CLI, OpenCode  <br>
 ⚙️ **2026** — Shipped my first Rust CLI  <br>
 
 ## 🧰 Languages & Stacks
@@ -38,7 +38,6 @@ Engineering capability stays constant across tools; technology depth doesn't. Ea
 🌐 **REST APIs** — FastAPI as the standard for new services, with typed client generation from OpenAPI specs; authentication via Active Directory/LDAP  <br>
 📈 **Real-time dashboards** — logistics operations and job/lock monitoring (Chart.js, Alpine.js, Jinja2)  <br>
 🗃️ **Databases** — Oracle (production), SQLite (local analytics), query/view modeling for legacy systems  <br>
-🖨️ **Hardware automation** — label printer automation via a dedicated API  <br>
 🗺️ **Geoprocessing** — pipelines with open geographic data, spatial clustering, map rendering, and PDF generation  <br>
 🔌 **Third-party API integrations** — productivity/spreadsheet APIs, live currency exchange, geocoding  <br>
 
